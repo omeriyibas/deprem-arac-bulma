@@ -1,2 +1,1 @@
-# deprem-arac-bulma
-react native web app
+[Deprem Araç Bulma Sitesi](https://deprem-arac-bulma.web.app/)
